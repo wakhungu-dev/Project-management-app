@@ -15,6 +15,6 @@ body,
 
 html {
   @apply text-sm;
-  @apply bg-gray-500;
-  @apply text-gray-900;
+  @apply bg-white;
+  @apply dark:bg-black;
 }
