@@ -17,7 +17,7 @@ const Navbar = () => {
                 <Menu className='h-8 w-8 dark:text-white' />
                  </button>}
             <div className='relative flex h-min w-[200px]'>
-                <Search className='absolute left-[4px] top-1/2 mr-2 h-5 w-5 -translate-y-1/2 transform cursor-pointer dark: text-white' />
+                <Search className='absolute left-[4px] top-1/2 mr-2 h-5 w-5 -translate-y-1/2 transform cursor-pointer  dark: text-white' />
                 <input type='search' placeholder='Search...' className='w-full h-full p-2 pl-8 text-sm bg-gray-100 dark:bg-dark-bg dark:text-white rounded-md focus:outline-none' />
             </div>
         </div>
